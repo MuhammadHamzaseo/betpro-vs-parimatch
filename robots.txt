@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://muhammadhamzaseo.github.io/betpro-vs-parimatch/sitemap.xml
